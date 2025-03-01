@@ -1,5 +1,4 @@
-# Project Title:
-Python Coin Flip Simulator
+# Project Title: Two-Face Flip
 
 ## Description:
 Developed a coin flip simulation program using Python. The program allows users to simulate flipping a coin, generating random outcomes and displaying the results.

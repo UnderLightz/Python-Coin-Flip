@@ -14,4 +14,5 @@ Conducted thorough testing to verify the randomness and accuracy of the coin fli
 
 Challenges and Solutions:
 
-Challenge: Ensuring the randomness and fairness of the coin flips. Solution: Utilized Python's random library to generate truly random outcomes and performed statistical tests to validate the fairness of the simulation.
+Challenge: Ensuring the randomness and fairness of the coin flips.
+Solution: Utilized Python's random library to generate truly random outcomes and performed statistical tests to validate the fairness of the simulation.
